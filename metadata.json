@@ -1,0 +1,5 @@
+{
+  "name": "CyberGuard AI",
+  "description": "An integrated AI-powered Cyber Safety application for scam detection, threat intelligence, and victim support.",
+  "requestFramePermissions": ["microphone"]
+}
